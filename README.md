@@ -4,5 +4,5 @@
 
 ## Themen
 * JavaFX
-** Color
-** GraphicsContext 
+* Color
+* GraphicsContext 
